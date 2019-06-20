@@ -7,3 +7,4 @@ hgf
 hgffdh
 gfd
 hgfh
+fbsql_affected_rowssdfgd
